@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:space-evenly;
+}
+
+/* .elements{
+	border:1px solid;
+	height:40px;
+	width:40px;
+	background:lightblue;
+} */
